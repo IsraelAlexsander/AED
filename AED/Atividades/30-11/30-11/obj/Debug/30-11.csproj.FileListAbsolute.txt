@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\30-11\30-11\bin\Debug\30-11.exe.config
+D:\Faculdade\AED\Atividades\30-11\30-11\bin\Debug\30-11.exe
+D:\Faculdade\AED\Atividades\30-11\30-11\bin\Debug\30-11.pdb
+D:\Faculdade\AED\Atividades\30-11\30-11\obj\Debug\30-11.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\30-11\30-11\obj\Debug\30-11.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\30-11\30-11\obj\Debug\30-11.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\30-11\30-11\obj\Debug\30-11.exe
+D:\Faculdade\AED\Atividades\30-11\30-11\obj\Debug\30-11.pdb

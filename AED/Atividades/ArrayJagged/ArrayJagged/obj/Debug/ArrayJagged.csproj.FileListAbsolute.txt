@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\ArrayJagged\ArrayJagged\bin\Debug\ArrayJagged.exe.config
+D:\Faculdade\AED\Atividades\ArrayJagged\ArrayJagged\bin\Debug\ArrayJagged.exe
+D:\Faculdade\AED\Atividades\ArrayJagged\ArrayJagged\bin\Debug\ArrayJagged.pdb
+D:\Faculdade\AED\Atividades\ArrayJagged\ArrayJagged\obj\Debug\ArrayJagged.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\ArrayJagged\ArrayJagged\obj\Debug\ArrayJagged.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\ArrayJagged\ArrayJagged\obj\Debug\ArrayJagged.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\ArrayJagged\ArrayJagged\obj\Debug\ArrayJagged.exe
+D:\Faculdade\AED\Atividades\ArrayJagged\ArrayJagged\obj\Debug\ArrayJagged.pdb
