@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\ConversorBase10\ConversorBase10\bin\Debug\ConversorBase10.exe.config
+D:\Faculdade\AED\Atividades\ConversorBase10\ConversorBase10\bin\Debug\ConversorBase10.exe
+D:\Faculdade\AED\Atividades\ConversorBase10\ConversorBase10\bin\Debug\ConversorBase10.pdb
+D:\Faculdade\AED\Atividades\ConversorBase10\ConversorBase10\obj\Debug\ConversorBase10.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\ConversorBase10\ConversorBase10\obj\Debug\ConversorBase10.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\ConversorBase10\ConversorBase10\obj\Debug\ConversorBase10.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\ConversorBase10\ConversorBase10\obj\Debug\ConversorBase10.exe
+D:\Faculdade\AED\Atividades\ConversorBase10\ConversorBase10\obj\Debug\ConversorBase10.pdb

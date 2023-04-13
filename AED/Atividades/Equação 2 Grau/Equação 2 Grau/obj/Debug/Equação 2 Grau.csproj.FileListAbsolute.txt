@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\Equação 2 Grau\Equação 2 Grau\bin\Debug\Equação 2 Grau.exe.config
+D:\Faculdade\AED\Atividades\Equação 2 Grau\Equação 2 Grau\bin\Debug\Equação 2 Grau.exe
+D:\Faculdade\AED\Atividades\Equação 2 Grau\Equação 2 Grau\bin\Debug\Equação 2 Grau.pdb
+D:\Faculdade\AED\Atividades\Equação 2 Grau\Equação 2 Grau\obj\Debug\Equação 2 Grau.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\Equação 2 Grau\Equação 2 Grau\obj\Debug\Equação 2 Grau.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\Equação 2 Grau\Equação 2 Grau\obj\Debug\Equação 2 Grau.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\Equação 2 Grau\Equação 2 Grau\obj\Debug\Equação 2 Grau.exe
+D:\Faculdade\AED\Atividades\Equação 2 Grau\Equação 2 Grau\obj\Debug\Equação 2 Grau.pdb
