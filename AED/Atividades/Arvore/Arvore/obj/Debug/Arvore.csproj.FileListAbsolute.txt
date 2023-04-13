@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\Arvore\Arvore\bin\Debug\Arvore.exe.config
+D:\Faculdade\AED\Atividades\Arvore\Arvore\bin\Debug\Arvore.exe
+D:\Faculdade\AED\Atividades\Arvore\Arvore\bin\Debug\Arvore.pdb
+D:\Faculdade\AED\Atividades\Arvore\Arvore\obj\Debug\Arvore.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\Arvore\Arvore\obj\Debug\Arvore.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\Arvore\Arvore\obj\Debug\Arvore.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\Arvore\Arvore\obj\Debug\Arvore.exe
+D:\Faculdade\AED\Atividades\Arvore\Arvore\obj\Debug\Arvore.pdb

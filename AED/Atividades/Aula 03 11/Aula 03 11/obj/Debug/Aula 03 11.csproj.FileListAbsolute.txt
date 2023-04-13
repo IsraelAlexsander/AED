@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Listas\Exercicios Listas Pilhas Filas\Aula 03 11\Aula 03 11\bin\Debug\Aula 03 11.exe.config
+D:\Faculdade\AED\Listas\Exercicios Listas Pilhas Filas\Aula 03 11\Aula 03 11\bin\Debug\Aula 03 11.exe
+D:\Faculdade\AED\Listas\Exercicios Listas Pilhas Filas\Aula 03 11\Aula 03 11\bin\Debug\Aula 03 11.pdb
+D:\Faculdade\AED\Listas\Exercicios Listas Pilhas Filas\Aula 03 11\Aula 03 11\obj\Debug\Aula 03 11.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Listas\Exercicios Listas Pilhas Filas\Aula 03 11\Aula 03 11\obj\Debug\Aula 03 11.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Listas\Exercicios Listas Pilhas Filas\Aula 03 11\Aula 03 11\obj\Debug\Aula 03 11.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Listas\Exercicios Listas Pilhas Filas\Aula 03 11\Aula 03 11\obj\Debug\Aula 03 11.exe
+D:\Faculdade\AED\Listas\Exercicios Listas Pilhas Filas\Aula 03 11\Aula 03 11\obj\Debug\Aula 03 11.pdb
