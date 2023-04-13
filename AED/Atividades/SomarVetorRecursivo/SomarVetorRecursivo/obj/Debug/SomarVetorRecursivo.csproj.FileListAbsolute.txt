@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\SomarVetorRecursivo\SomarVetorRecursivo\bin\Debug\SomarVetorRecursivo.exe.config
+D:\Faculdade\AED\Atividades\SomarVetorRecursivo\SomarVetorRecursivo\bin\Debug\SomarVetorRecursivo.exe
+D:\Faculdade\AED\Atividades\SomarVetorRecursivo\SomarVetorRecursivo\bin\Debug\SomarVetorRecursivo.pdb
+D:\Faculdade\AED\Atividades\SomarVetorRecursivo\SomarVetorRecursivo\obj\Debug\SomarVetorRecursivo.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\SomarVetorRecursivo\SomarVetorRecursivo\obj\Debug\SomarVetorRecursivo.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\SomarVetorRecursivo\SomarVetorRecursivo\obj\Debug\SomarVetorRecursivo.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\SomarVetorRecursivo\SomarVetorRecursivo\obj\Debug\SomarVetorRecursivo.exe
+D:\Faculdade\AED\Atividades\SomarVetorRecursivo\SomarVetorRecursivo\obj\Debug\SomarVetorRecursivo.pdb

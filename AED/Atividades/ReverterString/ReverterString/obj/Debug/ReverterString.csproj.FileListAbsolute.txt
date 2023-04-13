@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\ReverterString\ReverterString\bin\Debug\ReverterString.exe.config
+D:\Faculdade\AED\Atividades\ReverterString\ReverterString\bin\Debug\ReverterString.exe
+D:\Faculdade\AED\Atividades\ReverterString\ReverterString\bin\Debug\ReverterString.pdb
+D:\Faculdade\AED\Atividades\ReverterString\ReverterString\obj\Debug\ReverterString.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\ReverterString\ReverterString\obj\Debug\ReverterString.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\ReverterString\ReverterString\obj\Debug\ReverterString.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\ReverterString\ReverterString\obj\Debug\ReverterString.exe
+D:\Faculdade\AED\Atividades\ReverterString\ReverterString\obj\Debug\ReverterString.pdb

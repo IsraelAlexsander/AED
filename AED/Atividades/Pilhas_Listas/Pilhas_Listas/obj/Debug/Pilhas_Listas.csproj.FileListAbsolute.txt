@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\Pilhas_Listas\Pilhas_Listas\bin\Debug\Pilhas_Listas.exe.config
+D:\Faculdade\AED\Atividades\Pilhas_Listas\Pilhas_Listas\bin\Debug\Pilhas_Listas.exe
+D:\Faculdade\AED\Atividades\Pilhas_Listas\Pilhas_Listas\bin\Debug\Pilhas_Listas.pdb
+D:\Faculdade\AED\Atividades\Pilhas_Listas\Pilhas_Listas\obj\Debug\Pilhas_Listas.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\Pilhas_Listas\Pilhas_Listas\obj\Debug\Pilhas_Listas.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\Pilhas_Listas\Pilhas_Listas\obj\Debug\Pilhas_Listas.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\Pilhas_Listas\Pilhas_Listas\obj\Debug\Pilhas_Listas.exe
+D:\Faculdade\AED\Atividades\Pilhas_Listas\Pilhas_Listas\obj\Debug\Pilhas_Listas.pdb

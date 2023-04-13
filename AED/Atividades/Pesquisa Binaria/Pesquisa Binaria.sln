@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pesquisa Binaria", "Pesquisa Binaria\Pesquisa Binaria.csproj", "{F931C3A8-0FCA-4B7E-A7DF-641ADB5C4FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F931C3A8-0FCA-4B7E-A7DF-641ADB5C4FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F931C3A8-0FCA-4B7E-A7DF-641ADB5C4FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F931C3A8-0FCA-4B7E-A7DF-641ADB5C4FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F931C3A8-0FCA-4B7E-A7DF-641ADB5C4FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABE39798-A9FE-4D21-86FC-6597177972E1}
+	EndGlobalSection
+EndGlobal
