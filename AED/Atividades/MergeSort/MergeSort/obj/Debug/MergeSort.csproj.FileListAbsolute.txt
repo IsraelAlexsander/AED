@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+D:\Faculdade\AED\Atividades\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+D:\Faculdade\AED\Atividades\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+D:\Faculdade\AED\Atividades\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+D:\Faculdade\AED\Atividades\MergeSort\MergeSort\obj\Debug\MergeSort.pdb

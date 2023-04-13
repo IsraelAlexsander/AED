@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\MediaProvas\MediaProvas\bin\Debug\MediaProvas.exe.config
+D:\Faculdade\AED\Atividades\MediaProvas\MediaProvas\bin\Debug\MediaProvas.exe
+D:\Faculdade\AED\Atividades\MediaProvas\MediaProvas\bin\Debug\MediaProvas.pdb
+D:\Faculdade\AED\Atividades\MediaProvas\MediaProvas\obj\Debug\MediaProvas.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\MediaProvas\MediaProvas\obj\Debug\MediaProvas.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\MediaProvas\MediaProvas\obj\Debug\MediaProvas.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\MediaProvas\MediaProvas\obj\Debug\MediaProvas.exe
+D:\Faculdade\AED\Atividades\MediaProvas\MediaProvas\obj\Debug\MediaProvas.pdb

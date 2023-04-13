@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\MetodosOrdenacao01\MetodosOrdenacao01\bin\Debug\MetodosOrdenacao01.exe.config
+D:\Faculdade\AED\Atividades\MetodosOrdenacao01\MetodosOrdenacao01\bin\Debug\MetodosOrdenacao01.exe
+D:\Faculdade\AED\Atividades\MetodosOrdenacao01\MetodosOrdenacao01\bin\Debug\MetodosOrdenacao01.pdb
+D:\Faculdade\AED\Atividades\MetodosOrdenacao01\MetodosOrdenacao01\obj\Debug\MetodosOrdenacao01.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\MetodosOrdenacao01\MetodosOrdenacao01\obj\Debug\MetodosOrdenacao01.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\MetodosOrdenacao01\MetodosOrdenacao01\obj\Debug\MetodosOrdenacao01.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\MetodosOrdenacao01\MetodosOrdenacao01\obj\Debug\MetodosOrdenacao01.exe
+D:\Faculdade\AED\Atividades\MetodosOrdenacao01\MetodosOrdenacao01\obj\Debug\MetodosOrdenacao01.pdb
