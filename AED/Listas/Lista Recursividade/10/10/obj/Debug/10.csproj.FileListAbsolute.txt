@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Listas\Exercicios Recursividade\10\10\bin\Debug\10.exe.config
+D:\Faculdade\AED\Listas\Exercicios Recursividade\10\10\bin\Debug\10.exe
+D:\Faculdade\AED\Listas\Exercicios Recursividade\10\10\bin\Debug\10.pdb
+D:\Faculdade\AED\Listas\Exercicios Recursividade\10\10\obj\Debug\10.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Listas\Exercicios Recursividade\10\10\obj\Debug\10.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Listas\Exercicios Recursividade\10\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Listas\Exercicios Recursividade\10\10\obj\Debug\10.exe
+D:\Faculdade\AED\Listas\Exercicios Recursividade\10\10\obj\Debug\10.pdb
