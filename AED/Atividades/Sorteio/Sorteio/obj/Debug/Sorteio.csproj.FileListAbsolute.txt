@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\Sorteio\Sorteio\bin\Debug\Sorteio.exe.config
+D:\Faculdade\AED\Atividades\Sorteio\Sorteio\bin\Debug\Sorteio.exe
+D:\Faculdade\AED\Atividades\Sorteio\Sorteio\bin\Debug\Sorteio.pdb
+D:\Faculdade\AED\Atividades\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\Sorteio\Sorteio\obj\Debug\Sorteio.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\Sorteio\Sorteio\obj\Debug\Sorteio.exe
+D:\Faculdade\AED\Atividades\Sorteio\Sorteio\obj\Debug\Sorteio.pdb

@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\Strucs e Classes\Strucs e Classes\bin\Debug\Strucs e Classes.exe.config
+D:\Faculdade\AED\Atividades\Strucs e Classes\Strucs e Classes\bin\Debug\Strucs e Classes.exe
+D:\Faculdade\AED\Atividades\Strucs e Classes\Strucs e Classes\bin\Debug\Strucs e Classes.pdb
+D:\Faculdade\AED\Atividades\Strucs e Classes\Strucs e Classes\obj\Debug\Strucs e Classes.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\Strucs e Classes\Strucs e Classes\obj\Debug\Strucs e Classes.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\Strucs e Classes\Strucs e Classes\obj\Debug\Strucs e Classes.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\Strucs e Classes\Strucs e Classes\obj\Debug\Strucs e Classes.exe
+D:\Faculdade\AED\Atividades\Strucs e Classes\Strucs e Classes\obj\Debug\Strucs e Classes.pdb

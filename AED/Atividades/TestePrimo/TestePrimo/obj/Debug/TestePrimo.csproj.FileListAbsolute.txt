@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\TestePrimo\TestePrimo\bin\Debug\TestePrimo.exe.config
+D:\Faculdade\AED\Atividades\TestePrimo\TestePrimo\bin\Debug\TestePrimo.exe
+D:\Faculdade\AED\Atividades\TestePrimo\TestePrimo\bin\Debug\TestePrimo.pdb
+D:\Faculdade\AED\Atividades\TestePrimo\TestePrimo\obj\Debug\TestePrimo.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\TestePrimo\TestePrimo\obj\Debug\TestePrimo.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\TestePrimo\TestePrimo\obj\Debug\TestePrimo.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\TestePrimo\TestePrimo\obj\Debug\TestePrimo.exe
+D:\Faculdade\AED\Atividades\TestePrimo\TestePrimo\obj\Debug\TestePrimo.pdb

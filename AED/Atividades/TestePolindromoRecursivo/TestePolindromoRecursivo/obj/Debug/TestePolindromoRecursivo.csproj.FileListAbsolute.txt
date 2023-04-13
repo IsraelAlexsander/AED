@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\TestePolindromoRecursivo\TestePolindromoRecursivo\bin\Debug\TestePolindromoRecursivo.exe.config
+D:\Faculdade\AED\Atividades\TestePolindromoRecursivo\TestePolindromoRecursivo\bin\Debug\TestePolindromoRecursivo.exe
+D:\Faculdade\AED\Atividades\TestePolindromoRecursivo\TestePolindromoRecursivo\bin\Debug\TestePolindromoRecursivo.pdb
+D:\Faculdade\AED\Atividades\TestePolindromoRecursivo\TestePolindromoRecursivo\obj\Debug\TestePolindromoRecursivo.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\TestePolindromoRecursivo\TestePolindromoRecursivo\obj\Debug\TestePolindromoRecursivo.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\TestePolindromoRecursivo\TestePolindromoRecursivo\obj\Debug\TestePolindromoRecursivo.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\TestePolindromoRecursivo\TestePolindromoRecursivo\obj\Debug\TestePolindromoRecursivo.exe
+D:\Faculdade\AED\Atividades\TestePolindromoRecursivo\TestePolindromoRecursivo\obj\Debug\TestePolindromoRecursivo.pdb
