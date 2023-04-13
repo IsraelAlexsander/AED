@@ -1,8 +1,0 @@
-D:\Faculdade\AED\Listas\Exercicios TAD\05\05\obj\Debug\05.csproj.AssemblyReference.cache
-D:\Faculdade\AED\Listas\Exercicios TAD\05\05\obj\Debug\05.csproj.SuggestedBindingRedirects.cache
-D:\Faculdade\AED\Listas\Exercicios TAD\05\05\obj\Debug\05.csproj.CoreCompileInputs.cache
-D:\Faculdade\AED\Listas\Exercicios TAD\05\05\bin\Debug\05.exe.config
-D:\Faculdade\AED\Listas\Exercicios TAD\05\05\bin\Debug\05.exe
-D:\Faculdade\AED\Listas\Exercicios TAD\05\05\bin\Debug\05.pdb
-D:\Faculdade\AED\Listas\Exercicios TAD\05\05\obj\Debug\05.exe
-D:\Faculdade\AED\Listas\Exercicios TAD\05\05\obj\Debug\05.pdb
