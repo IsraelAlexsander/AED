@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\NumerosComplexos\NumerosComplexos\bin\Debug\NumerosComplexos.exe.config
+D:\Faculdade\AED\Atividades\NumerosComplexos\NumerosComplexos\bin\Debug\NumerosComplexos.exe
+D:\Faculdade\AED\Atividades\NumerosComplexos\NumerosComplexos\bin\Debug\NumerosComplexos.pdb
+D:\Faculdade\AED\Atividades\NumerosComplexos\NumerosComplexos\obj\Debug\NumerosComplexos.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\NumerosComplexos\NumerosComplexos\obj\Debug\NumerosComplexos.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\NumerosComplexos\NumerosComplexos\obj\Debug\NumerosComplexos.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\NumerosComplexos\NumerosComplexos\obj\Debug\NumerosComplexos.exe
+D:\Faculdade\AED\Atividades\NumerosComplexos\NumerosComplexos\obj\Debug\NumerosComplexos.pdb

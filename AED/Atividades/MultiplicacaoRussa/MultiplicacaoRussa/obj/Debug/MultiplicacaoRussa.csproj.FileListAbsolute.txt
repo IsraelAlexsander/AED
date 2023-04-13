@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\MultiplicacaoRussa\MultiplicacaoRussa\bin\Debug\MultiplicacaoRussa.exe.config
+D:\Faculdade\AED\Atividades\MultiplicacaoRussa\MultiplicacaoRussa\bin\Debug\MultiplicacaoRussa.exe
+D:\Faculdade\AED\Atividades\MultiplicacaoRussa\MultiplicacaoRussa\bin\Debug\MultiplicacaoRussa.pdb
+D:\Faculdade\AED\Atividades\MultiplicacaoRussa\MultiplicacaoRussa\obj\Debug\MultiplicacaoRussa.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\MultiplicacaoRussa\MultiplicacaoRussa\obj\Debug\MultiplicacaoRussa.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\MultiplicacaoRussa\MultiplicacaoRussa\obj\Debug\MultiplicacaoRussa.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\MultiplicacaoRussa\MultiplicacaoRussa\obj\Debug\MultiplicacaoRussa.exe
+D:\Faculdade\AED\Atividades\MultiplicacaoRussa\MultiplicacaoRussa\obj\Debug\MultiplicacaoRussa.pdb

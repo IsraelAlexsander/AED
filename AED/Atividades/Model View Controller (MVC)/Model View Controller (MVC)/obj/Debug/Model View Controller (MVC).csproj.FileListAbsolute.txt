@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\Model View Controller (MVC)\Model View Controller (MVC)\bin\Debug\Model View Controller (MVC).exe.config
+D:\Faculdade\AED\Atividades\Model View Controller (MVC)\Model View Controller (MVC)\bin\Debug\Model View Controller (MVC).exe
+D:\Faculdade\AED\Atividades\Model View Controller (MVC)\Model View Controller (MVC)\bin\Debug\Model View Controller (MVC).pdb
+D:\Faculdade\AED\Atividades\Model View Controller (MVC)\Model View Controller (MVC)\obj\Debug\Model View Controller (MVC).csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\Model View Controller (MVC)\Model View Controller (MVC)\obj\Debug\Model View Controller (MVC).csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\Model View Controller (MVC)\Model View Controller (MVC)\obj\Debug\Model View Controller (MVC).csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\Model View Controller (MVC)\Model View Controller (MVC)\obj\Debug\Model View Controller (MVC).exe
+D:\Faculdade\AED\Atividades\Model View Controller (MVC)\Model View Controller (MVC)\obj\Debug\Model View Controller (MVC).pdb
