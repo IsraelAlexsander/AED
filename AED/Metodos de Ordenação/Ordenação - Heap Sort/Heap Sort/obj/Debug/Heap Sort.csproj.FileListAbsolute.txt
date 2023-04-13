@@ -1,0 +1,7 @@
+D:\PUCMinas\AED\Projetos C#\Heap Sort\Heap Sort\obj\Debug\ResolveAssemblyReference.cache
+D:\PUCMinas\AED\Projetos C#\Heap Sort\Heap Sort\bin\Debug\Heap Sort.exe
+D:\PUCMinas\AED\Projetos C#\Heap Sort\Heap Sort\bin\Debug\Heap Sort.pdb
+D:\PUCMinas\AED\Projetos C#\Heap Sort\Heap Sort\obj\Debug\Heap Sort.exe
+D:\PUCMinas\AED\Projetos C#\Heap Sort\Heap Sort\obj\Debug\Heap Sort.pdb
+D:\PUCMinas\AED\Projetos C#\Ordenação - Heap Sort\Heap Sort\obj\Debug\Heap Sort.exe
+D:\PUCMinas\AED\Projetos C#\Ordenação - Heap Sort\Heap Sort\obj\Debug\Heap Sort.pdb
