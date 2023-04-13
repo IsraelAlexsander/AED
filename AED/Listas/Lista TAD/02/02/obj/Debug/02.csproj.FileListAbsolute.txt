@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Listas\Exercicios TAD\02\02\bin\Debug\02.exe.config
+D:\Faculdade\AED\Listas\Exercicios TAD\02\02\bin\Debug\02.exe
+D:\Faculdade\AED\Listas\Exercicios TAD\02\02\bin\Debug\02.pdb
+D:\Faculdade\AED\Listas\Exercicios TAD\02\02\obj\Debug\02.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Listas\Exercicios TAD\02\02\obj\Debug\02.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Listas\Exercicios TAD\02\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Listas\Exercicios TAD\02\02\obj\Debug\02.exe
+D:\Faculdade\AED\Listas\Exercicios TAD\02\02\obj\Debug\02.pdb
