@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Listas\Exercicios Recursividade\04\04\bin\Debug\04.exe.config
+D:\Faculdade\AED\Listas\Exercicios Recursividade\04\04\bin\Debug\04.exe
+D:\Faculdade\AED\Listas\Exercicios Recursividade\04\04\bin\Debug\04.pdb
+D:\Faculdade\AED\Listas\Exercicios Recursividade\04\04\obj\Debug\04.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Listas\Exercicios Recursividade\04\04\obj\Debug\04.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Listas\Exercicios Recursividade\04\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Listas\Exercicios Recursividade\04\04\obj\Debug\04.exe
+D:\Faculdade\AED\Listas\Exercicios Recursividade\04\04\obj\Debug\04.pdb
