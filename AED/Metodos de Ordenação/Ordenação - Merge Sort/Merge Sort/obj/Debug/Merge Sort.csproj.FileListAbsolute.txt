@@ -1,0 +1,15 @@
+D:\PUCMinas\AED\Projetos C#\Merge Sort\Merge Sort\bin\Debug\Merge Sort.exe
+D:\PUCMinas\AED\Projetos C#\Merge Sort\Merge Sort\bin\Debug\Merge Sort.pdb
+D:\PUCMinas\AED\Projetos C#\Merge Sort\Merge Sort\obj\Debug\ResolveAssemblyReference.cache
+D:\PUCMinas\AED\Projetos C#\Merge Sort\Merge Sort\obj\Debug\Merge Sort.exe
+D:\PUCMinas\AED\Projetos C#\Merge Sort\Merge Sort\obj\Debug\Merge Sort.pdb
+D:\PUCMinas\AED\Projetos C#\Ordena - Merge Sort\Merge Sort\obj\Debug\Merge Sort.exe
+D:\PUCMinas\AED\Projetos C#\Ordena - Merge Sort\Merge Sort\obj\Debug\Merge Sort.pdb
+D:\PUCMinas\AED\Projetos C#\Ordena - Merge Sort\Merge Sort\bin\Debug\Merge Sort.exe
+D:\PUCMinas\AED\Projetos C#\Ordena - Merge Sort\Merge Sort\bin\Debug\Merge Sort.pdb
+D:\PUCMinas\AED\Projetos C#\Ordena - Merge Sort\Merge Sort\obj\Debug\ResolveAssemblyReference.cache
+D:\PUCMinas\AED\Projetos C#\Ordenação - Merge Sort\Merge Sort\obj\Debug\Merge Sort.exe
+D:\PUCMinas\AED\Projetos C#\Ordenação - Merge Sort\Merge Sort\obj\Debug\Merge Sort.pdb
+D:\PUCMinas\AED\Projetos C#\Ordenação - Merge Sort\Merge Sort\bin\Debug\Merge Sort.exe
+D:\PUCMinas\AED\Projetos C#\Ordenação - Merge Sort\Merge Sort\bin\Debug\Merge Sort.pdb
+D:\PUCMinas\AED\Projetos C#\Ordenação - Merge Sort\Merge Sort\obj\Debug\ResolveAssemblyReference.cache

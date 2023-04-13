@@ -1,0 +1,7 @@
+D:\PUCMinas\AED\Projetos C#\Quick Sort\Quick Sort\bin\Debug\Quick Sort.exe
+D:\PUCMinas\AED\Projetos C#\Quick Sort\Quick Sort\bin\Debug\Quick Sort.pdb
+D:\PUCMinas\AED\Projetos C#\Quick Sort\Quick Sort\obj\Debug\ResolveAssemblyReference.cache
+D:\PUCMinas\AED\Projetos C#\Quick Sort\Quick Sort\obj\Debug\Quick Sort.exe
+D:\PUCMinas\AED\Projetos C#\Quick Sort\Quick Sort\obj\Debug\Quick Sort.pdb
+D:\PUCMinas\AED\Projetos C#\Ordenação - Quick Sort\Quick Sort\obj\Debug\Quick Sort.exe
+D:\PUCMinas\AED\Projetos C#\Ordenação - Quick Sort\Quick Sort\obj\Debug\Quick Sort.pdb
