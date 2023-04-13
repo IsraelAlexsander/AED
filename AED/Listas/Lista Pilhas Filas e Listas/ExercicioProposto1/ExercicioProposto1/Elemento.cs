@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ExercicioProposto1
+{
+    internal class Elemento
+    {
+        public Professor professor;
+        public Elemento Proximo;
+
+        public Elemento()
+        {
+            professor = new Professor();
+            Proximo = null;            
+        }
+    }
+}
