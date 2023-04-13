@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\MatrizTransposta\MatrizTransposta\bin\Debug\MatrizTransposta.exe.config
+D:\Faculdade\AED\Atividades\MatrizTransposta\MatrizTransposta\bin\Debug\MatrizTransposta.exe
+D:\Faculdade\AED\Atividades\MatrizTransposta\MatrizTransposta\bin\Debug\MatrizTransposta.pdb
+D:\Faculdade\AED\Atividades\MatrizTransposta\MatrizTransposta\obj\Debug\MatrizTransposta.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\MatrizTransposta\MatrizTransposta\obj\Debug\MatrizTransposta.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\MatrizTransposta\MatrizTransposta\obj\Debug\MatrizTransposta.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\MatrizTransposta\MatrizTransposta\obj\Debug\MatrizTransposta.exe
+D:\Faculdade\AED\Atividades\MatrizTransposta\MatrizTransposta\obj\Debug\MatrizTransposta.pdb

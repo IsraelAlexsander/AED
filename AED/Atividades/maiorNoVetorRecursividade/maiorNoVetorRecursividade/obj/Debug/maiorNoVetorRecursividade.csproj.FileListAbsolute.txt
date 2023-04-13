@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\maiorNoVetorRecursividade\maiorNoVetorRecursividade\bin\Debug\maiorNoVetorRecursividade.exe.config
+D:\Faculdade\AED\Atividades\maiorNoVetorRecursividade\maiorNoVetorRecursividade\bin\Debug\maiorNoVetorRecursividade.exe
+D:\Faculdade\AED\Atividades\maiorNoVetorRecursividade\maiorNoVetorRecursividade\bin\Debug\maiorNoVetorRecursividade.pdb
+D:\Faculdade\AED\Atividades\maiorNoVetorRecursividade\maiorNoVetorRecursividade\obj\Debug\maiorNoVetorRecursividade.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\maiorNoVetorRecursividade\maiorNoVetorRecursividade\obj\Debug\maiorNoVetorRecursividade.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\maiorNoVetorRecursividade\maiorNoVetorRecursividade\obj\Debug\maiorNoVetorRecursividade.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\maiorNoVetorRecursividade\maiorNoVetorRecursividade\obj\Debug\maiorNoVetorRecursividade.exe
+D:\Faculdade\AED\Atividades\maiorNoVetorRecursividade\maiorNoVetorRecursividade\obj\Debug\maiorNoVetorRecursividade.pdb
