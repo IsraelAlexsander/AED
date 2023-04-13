@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Listas\Exercícios de Revisão de ATP\16\16\bin\Debug\16.exe.config
+D:\Faculdade\AED\Listas\Exercícios de Revisão de ATP\16\16\bin\Debug\16.exe
+D:\Faculdade\AED\Listas\Exercícios de Revisão de ATP\16\16\bin\Debug\16.pdb
+D:\Faculdade\AED\Listas\Exercícios de Revisão de ATP\16\16\obj\Debug\16.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Listas\Exercícios de Revisão de ATP\16\16\obj\Debug\16.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Listas\Exercícios de Revisão de ATP\16\16\obj\Debug\16.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Listas\Exercícios de Revisão de ATP\16\16\obj\Debug\16.exe
+D:\Faculdade\AED\Listas\Exercícios de Revisão de ATP\16\16\obj\Debug\16.pdb
