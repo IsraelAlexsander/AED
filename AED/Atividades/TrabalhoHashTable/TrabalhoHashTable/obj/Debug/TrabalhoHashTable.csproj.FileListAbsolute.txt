@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\TrabalhoHashTable\TrabalhoHashTable\bin\Debug\TrabalhoHashTable.exe.config
+D:\Faculdade\AED\Atividades\TrabalhoHashTable\TrabalhoHashTable\bin\Debug\TrabalhoHashTable.exe
+D:\Faculdade\AED\Atividades\TrabalhoHashTable\TrabalhoHashTable\bin\Debug\TrabalhoHashTable.pdb
+D:\Faculdade\AED\Atividades\TrabalhoHashTable\TrabalhoHashTable\obj\Debug\TrabalhoHashTable.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\TrabalhoHashTable\TrabalhoHashTable\obj\Debug\TrabalhoHashTable.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\TrabalhoHashTable\TrabalhoHashTable\obj\Debug\TrabalhoHashTable.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\TrabalhoHashTable\TrabalhoHashTable\obj\Debug\TrabalhoHashTable.exe
+D:\Faculdade\AED\Atividades\TrabalhoHashTable\TrabalhoHashTable\obj\Debug\TrabalhoHashTable.pdb

@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\VerificarLetra\VerificarLetra\bin\Debug\VerificarLetra.exe.config
+D:\Faculdade\AED\Atividades\VerificarLetra\VerificarLetra\bin\Debug\VerificarLetra.exe
+D:\Faculdade\AED\Atividades\VerificarLetra\VerificarLetra\bin\Debug\VerificarLetra.pdb
+D:\Faculdade\AED\Atividades\VerificarLetra\VerificarLetra\obj\Debug\VerificarLetra.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\VerificarLetra\VerificarLetra\obj\Debug\VerificarLetra.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\VerificarLetra\VerificarLetra\obj\Debug\VerificarLetra.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\VerificarLetra\VerificarLetra\obj\Debug\VerificarLetra.exe
+D:\Faculdade\AED\Atividades\VerificarLetra\VerificarLetra\obj\Debug\VerificarLetra.pdb

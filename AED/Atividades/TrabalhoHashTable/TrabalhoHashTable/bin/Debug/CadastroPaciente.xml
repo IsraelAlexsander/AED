@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPaciente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Paciente>
+    <RG>a</RG>
+    <Nome>a</Nome>
+    <Nasciemento>a</Nasciemento>
+    <Telefone>a</Telefone>
+  </Paciente>
+  <Paciente>
+    <RG>b</RG>
+    <Nome>b</Nome>
+    <Nasciemento>b</Nasciemento>
+    <Telefone>b</Telefone>
+  </Paciente>
+  <Paciente>
+    <RG>c</RG>
+    <Nome>c</Nome>
+    <Nasciemento>c</Nasciemento>
+    <Telefone>c</Telefone>
+  </Paciente>
+</ArrayOfPaciente>

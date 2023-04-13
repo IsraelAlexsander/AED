@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\VetorABCD\VetorABCD\obj\Debug\VetorABCD.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\VetorABCD\VetorABCD\obj\Debug\VetorABCD.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\VetorABCD\VetorABCD\obj\Debug\VetorABCD.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\VetorABCD\VetorABCD\bin\Debug\VetorABCD.exe.config
+D:\Faculdade\AED\Atividades\VetorABCD\VetorABCD\bin\Debug\VetorABCD.exe
+D:\Faculdade\AED\Atividades\VetorABCD\VetorABCD\bin\Debug\VetorABCD.pdb
+D:\Faculdade\AED\Atividades\VetorABCD\VetorABCD\obj\Debug\VetorABCD.exe
+D:\Faculdade\AED\Atividades\VetorABCD\VetorABCD\obj\Debug\VetorABCD.pdb

@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\TrabalhoRascunho\TrabalhoRascunho\bin\Debug\TrabalhoRascunho.exe.config
+D:\Faculdade\AED\Atividades\TrabalhoRascunho\TrabalhoRascunho\bin\Debug\TrabalhoRascunho.exe
+D:\Faculdade\AED\Atividades\TrabalhoRascunho\TrabalhoRascunho\bin\Debug\TrabalhoRascunho.pdb
+D:\Faculdade\AED\Atividades\TrabalhoRascunho\TrabalhoRascunho\obj\Debug\TrabalhoRascunho.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\TrabalhoRascunho\TrabalhoRascunho\obj\Debug\TrabalhoRascunho.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\TrabalhoRascunho\TrabalhoRascunho\obj\Debug\TrabalhoRascunho.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\TrabalhoRascunho\TrabalhoRascunho\obj\Debug\TrabalhoRascunho.exe
+D:\Faculdade\AED\Atividades\TrabalhoRascunho\TrabalhoRascunho\obj\Debug\TrabalhoRascunho.pdb
