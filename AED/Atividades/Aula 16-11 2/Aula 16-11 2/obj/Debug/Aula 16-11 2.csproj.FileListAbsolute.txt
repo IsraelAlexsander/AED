@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\Aula 16-11 2\Aula 16-11 2\bin\Debug\Aula 16-11 2.exe.config
+D:\Faculdade\AED\Atividades\Aula 16-11 2\Aula 16-11 2\bin\Debug\Aula 16-11 2.exe
+D:\Faculdade\AED\Atividades\Aula 16-11 2\Aula 16-11 2\bin\Debug\Aula 16-11 2.pdb
+D:\Faculdade\AED\Atividades\Aula 16-11 2\Aula 16-11 2\obj\Debug\Aula 16-11 2.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\Aula 16-11 2\Aula 16-11 2\obj\Debug\Aula 16-11 2.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\Aula 16-11 2\Aula 16-11 2\obj\Debug\Aula 16-11 2.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\Aula 16-11 2\Aula 16-11 2\obj\Debug\Aula 16-11 2.exe
+D:\Faculdade\AED\Atividades\Aula 16-11 2\Aula 16-11 2\obj\Debug\Aula 16-11 2.pdb

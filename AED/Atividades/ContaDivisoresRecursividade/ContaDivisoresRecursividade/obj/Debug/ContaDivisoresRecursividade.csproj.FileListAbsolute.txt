@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\ContaDivisoresRecursividade\ContaDivisoresRecursividade\bin\Debug\ContaDivisoresRecursividade.exe.config
+D:\Faculdade\AED\Atividades\ContaDivisoresRecursividade\ContaDivisoresRecursividade\bin\Debug\ContaDivisoresRecursividade.exe
+D:\Faculdade\AED\Atividades\ContaDivisoresRecursividade\ContaDivisoresRecursividade\bin\Debug\ContaDivisoresRecursividade.pdb
+D:\Faculdade\AED\Atividades\ContaDivisoresRecursividade\ContaDivisoresRecursividade\obj\Debug\ContaDivisoresRecursividade.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\ContaDivisoresRecursividade\ContaDivisoresRecursividade\obj\Debug\ContaDivisoresRecursividade.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\ContaDivisoresRecursividade\ContaDivisoresRecursividade\obj\Debug\ContaDivisoresRecursividade.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\ContaDivisoresRecursividade\ContaDivisoresRecursividade\obj\Debug\ContaDivisoresRecursividade.exe
+D:\Faculdade\AED\Atividades\ContaDivisoresRecursividade\ContaDivisoresRecursividade\obj\Debug\ContaDivisoresRecursividade.pdb

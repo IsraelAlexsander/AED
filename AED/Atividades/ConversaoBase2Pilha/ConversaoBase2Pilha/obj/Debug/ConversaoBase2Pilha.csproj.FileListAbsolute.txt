@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\ConversaoBase2Pilha\ConversaoBase2Pilha\bin\Debug\ConversaoBase2Pilha.exe.config
+D:\Faculdade\AED\Atividades\ConversaoBase2Pilha\ConversaoBase2Pilha\bin\Debug\ConversaoBase2Pilha.exe
+D:\Faculdade\AED\Atividades\ConversaoBase2Pilha\ConversaoBase2Pilha\bin\Debug\ConversaoBase2Pilha.pdb
+D:\Faculdade\AED\Atividades\ConversaoBase2Pilha\ConversaoBase2Pilha\obj\Debug\ConversaoBase2Pilha.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\ConversaoBase2Pilha\ConversaoBase2Pilha\obj\Debug\ConversaoBase2Pilha.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\ConversaoBase2Pilha\ConversaoBase2Pilha\obj\Debug\ConversaoBase2Pilha.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\ConversaoBase2Pilha\ConversaoBase2Pilha\obj\Debug\ConversaoBase2Pilha.exe
+D:\Faculdade\AED\Atividades\ConversaoBase2Pilha\ConversaoBase2Pilha\obj\Debug\ConversaoBase2Pilha.pdb

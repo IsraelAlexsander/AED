@@ -1,0 +1,8 @@
+D:\Faculdade\AED\Atividades\CompararString\CompararString\bin\Debug\CompararString.exe.config
+D:\Faculdade\AED\Atividades\CompararString\CompararString\bin\Debug\CompararString.exe
+D:\Faculdade\AED\Atividades\CompararString\CompararString\bin\Debug\CompararString.pdb
+D:\Faculdade\AED\Atividades\CompararString\CompararString\obj\Debug\CompararString.csproj.AssemblyReference.cache
+D:\Faculdade\AED\Atividades\CompararString\CompararString\obj\Debug\CompararString.csproj.SuggestedBindingRedirects.cache
+D:\Faculdade\AED\Atividades\CompararString\CompararString\obj\Debug\CompararString.csproj.CoreCompileInputs.cache
+D:\Faculdade\AED\Atividades\CompararString\CompararString\obj\Debug\CompararString.exe
+D:\Faculdade\AED\Atividades\CompararString\CompararString\obj\Debug\CompararString.pdb
